@@ -1,2 +1,2 @@
 # SPBU-Heuristic-Search
-Laboratory work for the course “Heuristic Search Methods and Algorithms”, SPBU, Fall 2024
+Labs for SPBU Heuristic Search Methods and Algorithms course 2024
